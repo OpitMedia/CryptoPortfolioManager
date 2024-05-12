@@ -1,5 +1,5 @@
 {
-  "name": "cryptoportfoliomanager",
+  "name": "cryptoportfoliomanagers",
   "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
